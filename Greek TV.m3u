@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=Action 24.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Action%2024.png?raw=true" group-title="Regional",Action 24
+https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
+#EXTINF:-1 tvg-id="Alpha HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Alpha%20TV.png?raw=true" group-title="National",Alpha HD
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/zjsl7v8g/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ant1 HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Ant1%20HD.png?raw=true" group-title="National",Ant1 HD
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 tvg-id="Argolida Sport.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Argolida%20Sport.jpg?raw=true" group-title="National",Argolida Sport
+https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cinema Classics.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Cinema%20Classics.png?raw=true" group-title="National",Cinema Classics
+https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema Time.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Cinema%20Time.jpeg?raw=true" group-title="National",Cinema Time
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 tvg-id=Corfu.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Corfu%20TV.png?raw=true" group-title="Regional",Corfu
+https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist_w151099256.m3u8
+#EXTINF:-1 tvg-id=Creta.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Creta%20TV.png?raw=true" group-title="Regional",Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist_w1233150668.m3u8
+#EXTINF:-1 tvg-id=Crete 1.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Crete%201.png?raw=true" group-title="Regional",Crete 1
+https://livetv.streams.ovh:8081/kriti/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=Crete TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Crete%20TV.png?raw=true" group-title="Regional",Crete TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Delta TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Delta%20TV.png?raw=true" group-title="National",Delta TV
+https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Destination Greece.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Destination%20Greece.png?raw=true" group-title="National",Destination Greece
+https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
+#EXTINF:-1 tvg-id="Dipolo TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Dtv6%20(Dipolo%20TV).jpg?raw=true" group-title="National",Dipolo TV
+https://channel.streams.ovh:8081/dipolotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=ED.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ED%20TV.jpg?raw=true" group-title="Regional",ED
+https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/chunklist_w929367059.m3u8
+#EXTINF:-1 tvg-id=Egnatia.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Egnatia%20TV.png?raw=true" group-title="Regional",Egnatia
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/chunklist_w446134046.m3u8
+#EXTINF:-1 tvg-id="GRD TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/EoE%20(GRD)%20TV.png?raw=true" group-title="National",GRD TV
+https://live.cast-control.eu/organismos/organismos/playlist.m3u8
+#EXTINF:-1 tvg-id=Epirus 1.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Epirus%20TV%201.png?raw=true" group-title="Regional",Epirus 1
+https://til.pp.ua:3928/live/epiruslive.m3u8
+#EXTINF:-1 tvg-id=ERT 1 HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%201.png?raw=true" group-title="National",ERT 1 HD
+https://ertflix.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-video=800000.m3u8
+#EXTINF:-1 tvg-id=ERT 2 HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%202.png?raw=true" group-title="National",ERT 2 HD
+https://ertflix.s.llnwi.net/ertlive/ert2/default/ERT2-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id=ERT 3 HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%203.png?raw=true" group-title="National",ERT 3 HD
+https://ertflix.s.llnwi.net/ertlive/ert3/default/ERT3-audio_104621_und=104400-video=2000000.m3u8
+#EXTINF:-1 tvg-id=Ert Kids .gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Kids.png?raw=true" group-title="National",Ert Kids
+https://ertflix.s.llnwi.net/ertlive/kids/default/KIDS-audio_104621_und=104400-video=800000.m3u8
+#EXTINF:-1 tvg-id=Ert Music .gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Music.png?raw=true" group-title="National",Ert Music
+https://ertflix.s.llnwi.net/ertlive/music/default/MUSIC-audio_104621_und=104400-video=800000.m3u8
+#EXTINF:-1 tvg-id=Ert News HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20News.png?raw=true" group-title="National",Ert News HD
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id=ERT Sports 1.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true" group-title="National",ERT Sports 1
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id=ERT Sports 2.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true" group-title="National",ERT Sports 2
+https://ertflix.s.llnwi.net/ertlive/ertsports2/default/ERTSports2-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id=ERT Sports 3.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%203.png?raw=true" group-title="National",ERT Sports 3
+https://ertflix.s.llnwi.net/ertlive/ertsports3/default/ERTSports3-audio_104621_und=104400-video=800000.m3u8
+#EXTINF:-1 tvg-id=ERT World HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20World.png?raw=true" group-title="National",ERT World HD
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id=Flash TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Flash%20TV.png?raw=true" group-title="Regional",Flash TV
+https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CqIF3DeC7RY7wqXzf_SLBwqQfyUazsLowf54644OzzW9V2sxXLI5sbpb5_76_LRuAsG_wqNZEBhZ1QEAKshhIPmiimtQwtuxQZsT7aKBZoXPdssWQKLf9JNSU-Ltcdn4os7BURdy1S2QL1bb2ub7gKGKCeGp8g6hiv6cXEfkfXqDZ9UxeZBSMVgQND2FNVWsOqiTDHdWC-CSgoX4q2T7y_SwHizqMrzvNJKivV_iQz2cD35uQ7iTeXQLrpXlZZlX8llaVeuOD01wuRCy6SwwaRgBKXCG4ZeiMyvZVikJGgTtdS48mcXVPtXIclIb2IqxAf9yKGMaQuaG81G7UYt0tVKR7eeftjE76A7pIiJlP2uJ_yKcYHmNGShfAGH3B-typ00OgaoY1xxDiPhNEzt4U4IHBSk1qalYQgB62f0QBA9MQdr6ShR9a-Jktun-fccE6BjF0WywwDyDU6YsEsHI3LpUHuOkAF7MJKzIgleLzPdh-61StygdRSt1SJ775cyr7cAAuPXPAVtLAb1CsID1Y85Qt7BDCqHrKpttokajokTBOBaUBitQf1JDz3ZBlo8_xvFIy-xagYKhXRyLiL-PvXHmUiaF95WBuSXp-33CzyQ5QXJeLiWbNNrzgHsavhDug-piRuu9ozGAp2OKBQ-3VK-8-we3ZA4p-YINA6b5g0rcK4fputzaMk4Y8Bn51F8IvwGeenVl6uXHZT9Tu-6uhN2_AYwaVfQM5l_rxc_1HMxOtpqiKwnuOIln4GQ5qawcWJJg3kdbcP34czaGGPug9V_3JfVJuMQ6JXQoUUxfB949ag1VVQJh9PRyrY5kSruLxcbx9NbFXizf2m-d6HoI-QC5z-yxULZT1sqRim00WeQZd_rb04eFZbRhHBptMk_ZSVHRsmoaDHvoHMZv6v0Z5B4hXSABKglldS13ZXN0LTIw2wk.m3u8
+#EXTINF:-1 tvg-id=Groovy TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Groovy%20TV.png?raw=true" group-title="National",Groovy TV
+https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id=Ionian.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Ionian.png?raw=true" group-title="Regional",Ionian
+https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/chunks.m3u8?nimblesessionid=38180942
+#EXTINF:-1 tvg-id=Kosmos.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Kosmos.jpg?raw=true" group-title="Regional",Kosmos
+https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CsAF9Z484UdcfcIR9iFuMImNLLUFBBk_vbfcrGQ2PZkn3RGOXXQxNZL32LksgHP1DiyYL9TGYxsm4b3cXqds2TWEDboiEy1ujrq22KOdJ6037N8-ojl7UmrFiRCKIiQF3-dHD5u7IMD1e-NbeBGx2mknIp3J1tSJMSwvQIyz7bTn_wVUEfLt8ZhqH9sSVxFN4RbAmqvVi_VoDEclF5j_2fC7-W62fezfw3Lslwv3FGiQidMjT0SlUBVZVc5GEmoyPWPDow5USTn7E0rv4PZ4wNFKydzD9fQMmfsbOaSRbZHB3qEy6IPS11_cyiiVUrU5JYDFHnIj4Vvqivea1FP5EkPkIzePhzcGksYqKp34QsTEn17trr4uRezpND2ATCfoxJyXJxiqbKB9iVnQxZ1gytNAnSETHC2xfGBjGR6mOuFigEPNCzgWgrsVnKhotE2vZoUd2o7fsSFZJr3ioOmS8MnJgvBivubAxkynhIPNcp_c7h4qglM7nisNOYhyUzqhqau-q0LFNF7jm0EsBuY8fz-iXNLOhdQaG8b1GC6Kp5yhyEDqaRsD9eNqZck1yqs3uGdzE4UjviUmqhhuZsq-8wsiKAoTjELEm9HsxL6RS6WDaLk-NkqnAK4-cUVN_a4t17DXUhDPxtXCay3EWaf_a-AMP3oD3R7IZVSKZgtUHXJ11a_z_K9rJGH-HiakkJlnWqYYMjvui3mh6YiMTnixLlGYfRKaKa_A73Q3xSk9P06ufCp1NA2y4L6XEQJq98BdLqwuWh97e5P4QaPJ_5TWJlpPd3p74hkKx9FWDpEl-E7ING6jcHXfCKIdB7zO2E_YAp-m_KUI9T8jrlQs77NFg4pXncWGBg6fOpKF6Gi6nPGgx78ybf8xH2mndym9fLiMke9vC__YH0leYKmTJGDfb7yRVbOGxLZrJbyFk7MBW4IdA6oaDHA_sXh785gBP94oaSABKglldS13ZXN0LTIw2wk.m3u8
+#EXTINF:-1 tvg-id=Makedonia TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Makedonia%20TV.png?raw=true" group-title="National",Makedonia TV
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
+#EXTINF:-1 tvg-id=Mega HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Mega%20HD.svg.png?raw=true" group-title="National",Mega HD
+https://streamcdnh17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
+#EXTINF:-1 tvg-id=Naftemporiki Tv.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Naftemporiki%20TV.png?raw=true" group-title="National",Naftemporiki TV
+https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/live-video=6499968.m3u8
+#EXTINF:-1 tvg-id=NET HD Europe.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/NET%20HD%20Europe.png?raw=true" group-title="National",NET HD Europe
+https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
+#EXTINF:-1 tvg-id=NET HD Toronto.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/NET%20HD%20Toronto.png?raw=true" group-title="National",NET HD Toronto
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+#EXTINF:-1 tvg-id=Opap Tv.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Opap%20TV.png?raw=true" group-title="National",Opap TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 tvg-id=Open HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Open%20HD.png?raw=true" group-title="National",Open HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/ncfmbsfx/720/chunklist.m3u8
+#EXTINF:-1 tvg-id=PLP.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/PLP.jpg?raw=true" group-title="Regional",PLP
+https://www.hellasnet.tv/rest2.live.hn/w2r.plp/chunklist_w782506448.m3u8
+#EXTINF:-1 tvg-id=Pro News.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Pro%20News.png?raw=true" group-title="Regional",Pro News
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 tvg-id=Skai HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Skai%20HD.svg.png?raw=true" group-title="National",Skai HD
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 tvg-id=Star HD.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Star%20HD.svg.png?raw=true" group-title="National",Star HD
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
+sec2(c1UCLTVK09KN73FpO3tADG2glWzQxkjFe1BXbxB_kYPZBlhNnxTM8EZE1EaCU9mlBAoo8e2rRNuyS-5W0B9pyTSBkuB8dfXuAkQ9jBuMriM)/dm/3/x8rkeb7/s/live-2.m3u8
+#EXTINF:-1 tvg-id=Stent TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Stent%20TV.png?raw=true" group-title="National",Stent TV
+https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
+#EXTINF:-1 tvg-id=TV 100.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/TV%20100.png?raw=true" group-title="Regional",TV 100
+https://live.fm100.gr/hls/tv100/1_2/index.m3u8?sessId=25232
+#EXTINF:-1 tvg-id=Vouli 2 TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Vouli%20TV%202%20.png?raw=true" group-title="National",Vouli 2 TV
+https://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8?hsesid=69f6b557c7fd6782cfc365706424e3c9
+#EXTINF:-1 tvg-id=Vouli 3 TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Vouli%20TV%202%20.png?raw=true" group-title="National",Vouli 3 TV
+https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8?hsesid=3d853e761634cc4d1072a86bb65cb261
+#EXTINF:-1 tvg-id=Vouli TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Vouli%20TV%202%20.png?raw=true" group-title="National",Vouli TV
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8?hsesid=82f693dd46ba87cbe3e38725cda04287
+#EXTINF:-1 tvg-id=Zougla TV.gr" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/Zougla%20TV.png?raw=true" group-title="National",Zougla TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
